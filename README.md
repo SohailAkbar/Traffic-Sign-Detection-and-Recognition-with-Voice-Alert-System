@@ -2,6 +2,8 @@
 
 Implementing a robust Traffic Sign Detection and Recognition system with integrated Voice Alert. Recognizes various signs, provides real-time visual feedback, and triggers voice alerts upon detection. Achieves high accuracy in detection and recognition, enhancing driver awareness without diverting attention from the road.
 
+**Note: Please download the DFG dataset from the following link: [DFG Dataset](https://www.vicos.si/resources/dfg/)**
+
 ## Features
 
 - Real-time detection and recognition of traffic signs.
@@ -101,5 +103,3 @@ Contributions to the Traffic Sign Detection and Recognition project are welcome!
 - Fork the project, make changes or improvements, and submit a pull request for review.
 - Follow the project's contribution guidelines and coding standards when submitting code changes.
 - Participate in discussions, provide feedback, and help address open issues or pull requests.
-
-**Note: Please download the DFG dataset from the following link: [DFG Dataset](https://www.vicos.si/resources/dfg/)**
