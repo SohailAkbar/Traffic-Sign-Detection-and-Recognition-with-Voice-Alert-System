@@ -15,7 +15,7 @@ Implementing a robust Traffic Sign Detection and Recognition system with integra
 
 ### Software Requirements
 - Operating System: Windows 10 or above
-- Programming Language: Python 3.8.10 or above
+- Programming Language: Python 3.8.10 
 - Libraries:
   - OpenCV for image processing.
   - Tkinter for GUI development.
