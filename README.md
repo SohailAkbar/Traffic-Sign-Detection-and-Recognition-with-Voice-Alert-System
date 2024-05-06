@@ -2,7 +2,6 @@
 
 Implementing a robust Traffic Sign Detection and Recognition system with integrated Voice Alert. Recognizes various signs, provides real-time visual feedback, and triggers voice alerts upon detection. Achieves high accuracy in detection and recognition, enhancing driver awareness without diverting attention from the road.
 
-**Note: Please download the DFG dataset from the following link: [DFG Dataset](https://www.vicos.si/resources/dfg/)**
 
 ## Features
 
@@ -31,11 +30,6 @@ Implementing a robust Traffic Sign Detection and Recognition system with integra
 - Random Access Memory: 8GB or more RAM necessary to handle the data and model during training.
 - Camera: To capture the video frames.
 
-![Evaluation the model](https://raw.githubusercontent.com/SohailAkbar/Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/main/Evaluation%20the%20model.png)
-
-![Visualizing the dataset](https://raw.githubusercontent.com/SohailAkbar/Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/main/visualising%20the%20dataset.png)
-
-
 
 ## Model Details
 
@@ -50,6 +44,11 @@ The Traffic Sign Detection and Recognition system utilizes two main models for i
    - The trained CNN model is loaded from the file `traffic_classifier.h5`. This model has been trained on a dataset of traffic sign images and is capable of classifying them into specific categories based on their visual features.
 
 Both models work collaboratively to provide accurate and efficient traffic sign detection and recognition capabilities in real-time. The YOLO model locates the traffic signs within video frames, while the CNN model classifies the detected signs into specific categories, enabling the system to provide meaningful feedback to users.
+
+### EVALUTAION OF MODEL 
+
+![Evaluation the model](https://raw.githubusercontent.com/SohailAkbar/Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/main/Evaluation%20the%20model.png)
+
 
 ### Usage
 
@@ -86,6 +85,13 @@ model = load_model('traffic_classifier.h5')
      ```
 
    This will start the Traffic Sign Detection and Recognition system with the integrated Voice Alert.
+
+**Note: Please download the DFG dataset from the following link: [DFG Dataset](https://www.vicos.si/resources/dfg/)**
+
+### VISUALISING THE DATASET
+
+![Visualizing the dataset](https://raw.githubusercontent.com/SohailAkbar/Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/main/visualising%20the%20dataset.png)
+
 
 ### Troubleshooting
 
