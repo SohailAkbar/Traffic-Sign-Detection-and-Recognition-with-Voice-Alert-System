@@ -56,7 +56,8 @@ To use the trained model for traffic sign recognition in your project, simply lo
 
 ```python
 from tensorflow.keras.models import load_model
-model = load_model('traffic_classifier.h5')
+cnn_model = load_model('traffic_classifier.h5')
+yolo_model = load_model('traffic_det.pt')
 ```
 
 ## Installation
