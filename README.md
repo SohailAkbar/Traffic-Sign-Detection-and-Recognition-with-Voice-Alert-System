@@ -33,7 +33,8 @@ Implementing a robust Traffic Sign Detection and Recognition system with integra
 
 ![Evaluation the model](https://raw.githubusercontent.com/SohailAkbar/Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/main/Evaluation%20the%20model.png)
 
-![Visualizing the dataset](https://raw.githubusercontent.com/SohailAkbar/Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/main/Visualizing%20the%20dataset.png)
+![Visualizing the dataset](https://raw.githubusercontent.com/SohailAkbar/Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/main/visualising%20the%20dataset.png)
+
 
 
 ## Model Details
