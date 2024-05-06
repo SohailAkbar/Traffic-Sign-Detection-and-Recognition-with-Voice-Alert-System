@@ -31,9 +31,10 @@ Implementing a robust Traffic Sign Detection and Recognition system with integra
 - Random Access Memory: 8GB or more RAM necessary to handle the data and model during training.
 - Camera: To capture the video frames.
 
-![Evaluation the model](Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/Evaluation the model.png)
+![Evaluation the model](https://raw.githubusercontent.com/SohailAkbar/Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/main/Evaluation%20the%20model.png)
 
-![Visualizing the dataset](Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/Visualizing the dataset.png)
+![Visualizing the dataset](https://raw.githubusercontent.com/SohailAkbar/Traffic-Sign-Detection-and-Recognition-with-Voice-Alert-System/main/Visualizing%20the%20dataset.png)
+
 
 ## Model Details
 
